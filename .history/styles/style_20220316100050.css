@@ -203,7 +203,7 @@ h1{
 
     .mobile-img{
         width: 70%;
-        transform: translateY(-60%);
+        transform: translateY(-50%);
     }
     .attribution span{
         display: block;
