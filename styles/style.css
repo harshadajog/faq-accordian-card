@@ -208,4 +208,35 @@ h1{
     .attribution span{
         display: block;
     }
+
+}
+
+@media (min-width: 541px){
+    .mobile-img{
+        display: none;
+    }
+
+    .card{
+        overflow: hidden;
+    }
+
+    .box .desktop-img{
+        width: unset;
+        transform: unset;
+    }
+}
+
+@media (min-width: 541px){
+    .mobile-img{
+        display: none;
+    }
+
+    .card{
+        overflow: hidden;
+    }
+
+    .box .desktop-img{
+        width: unset;
+        transform: unset;
+    }
 }
